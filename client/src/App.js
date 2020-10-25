@@ -19,7 +19,7 @@ function App() {
           >
             Learn React
           </a>
-          <h1 className="App-title">Welcome to React GOGOGO</h1>
+          <h1 className="App-title">Welcome to React GOGOGOfdasf</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
